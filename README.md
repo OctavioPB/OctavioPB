@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:003366,100:C8982A&amp;section=header&amp;text=Octavio%20P%C3%A9rez%20Bravo&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Data%20%26%20AI%20Strategy%20Architect&amp;descAlignY=58&amp;descSize=18" alt="Octavio Pérez Bravo — Data &amp; AI Strategy Architect" width="100%" />
+<img src="assets/opb-banner.png" alt="Octavio Pérez Bravo — Data &amp; AI Strategy Architect" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=C8982A&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=OPB+%C2%B7+From+Pipeline+to+Decision;Data+products+and+platforms+that+decide" alt="OPB — From Pipeline to Decision" />
 
@@ -65,22 +65,60 @@ Every project in this profile maps to at least one stage of this chain.
 
 <br/>
 
-## Selected projects
+## Projects
+
+Portfolio projects and prototypes, grouped by focus area. Each links to its repository.
+
+**People Analytics**
+
+| Project | Purpose | Stack |
+|---|---|---|
+| [Employee_Impact_Budget_Optimizer](https://github.com/OctavioPB/Employee_Impact_Budget_Optimizer) | Headcount budget decisions: network analysis, retention simulation, SHAP-calibrated turnover risk | Python, ILP, SHAP |
+| [HR_Organization_Synapse](https://github.com/OctavioPB/HR_Organization_Synapse) | Graph platform that detects knowledge silos and single points of failure | Airflow, Kafka, Neo4j |
+| [Socio_Technical_Alignment_Simulator](https://github.com/OctavioPB/Socio_Technical_Alignment_Simulator) | Predicts how a candidate changes a team's knowledge flow (network analysis and Monte Carlo) | TypeScript |
+| [Burnout_and_Cognitive_Load_Guardrail](https://github.com/OctavioPB/Burnout_and_Cognitive_Load_Guardrail) | Real-time monitoring to predict team burnout | Random Forest, ETL |
+| [Trust_Signal_AI](https://github.com/OctavioPB/Trust_Signal_AI) | Authenticity assessment of interviews from audio and transcripts (streaming and batch) | NLP |
+| [Agentic_Orchestation_Fingerprint](https://github.com/OctavioPB/Agentic_Orchestation_Fingerprint) | Leadership assessment of how a candidate reasons alongside AI | Python |
+
+**AI in Marketing and Sales**
+
+| Project | Purpose | Stack |
+|---|---|---|
+| [Competitive_Intelligence_Suite](https://github.com/OctavioPB/Competitive_Intelligence_Suite) | Reviews, social and news scraping with an NLP intelligence pipeline | Python, NLP |
+| [Synthetic_Persona_Sandbox](https://github.com/OctavioPB/Synthetic_Persona_Sandbox) | Tests campaigns against digital twins of customer segments | Python, LLMs |
+| [Hidden_Opportunities_Agent](https://github.com/OctavioPB/Hidden_Opportunities_Agent) | Autonomous upsell and cross-sell agent for a digital marketing agency | Python, agents |
+| [B2B_Account_Fatigue](https://github.com/OctavioPB/B2B_Account_Fatigue) | Multi-tenant platform for fatigue, intent and churn signals per B2B account | Python |
+| [Trend_Arbitrage_-_Zero-Day_Response](https://github.com/OctavioPB/Trend_Arbitrage_-_Zero-Day_Response) | Detects demand spikes and prepares audiences in response | Airflow, Kafka |
+| [Brand_Hallucination-Monitor](https://github.com/OctavioPB/Brand_Hallucination-Monitor) | Monitors how LLMs represent a brand | Python, LLMs |
+
+**Compliance, Legal and Risk**
 
 | Project | Purpose | Stack |
 |---|---|---|
 | [Legal_AI_Assistant](https://github.com/OctavioPB/Legal_AI_Assistant) | Bilingual MX/US legal assistant. It cites its sources and refuses to answer when the loaded law doesn't support one | RAG, Python |
 | [Regulatory_Change_Analyzer](https://github.com/OctavioPB/Regulatory_Change_Analyzer) | Tracks CNBV and SEC publications and maps changes to internal processes | Python, LLMs |
-| [Employee_Impact_Budget_Optimizer](https://github.com/OctavioPB/Employee_Impact_Budget_Optimizer) | Headcount budget decisions: network analysis, retention simulation, SHAP-calibrated turnover risk | Python, ILP, SHAP |
-| [HR_Organization_Synapse](https://github.com/OctavioPB/HR_Organization_Synapse) | Graph platform that detects knowledge silos and single points of failure | Airflow, Kafka, Neo4j |
-| [Competitive_Intelligence_Suite](https://github.com/OctavioPB/Competitive_Intelligence_Suite) | Reviews, social and news scraping with an NLP intelligence pipeline | Python, NLP |
-| [Synthetic_Persona_Sandbox](https://github.com/OctavioPB/Synthetic_Persona_Sandbox) | Tests campaigns against digital twins of customer segments | Python, LLMs |
-| [MDLib-RAG](https://github.com/OctavioPB/MDLib-RAG) | Fully local search, tutor and writing assistant over ~2,250 notes | Local LLMs, RAG |
+| [Ethical_Sales_Oracle](https://github.com/OctavioPB/Ethical_Sales_Oracle) | Real-time compliance checks on financial sales calls | Rules, Claude |
+| [Shadow_Data_and_PII_Ghost_Hunter](https://github.com/OctavioPB/Shadow_Data_and_PII_Ghost_Hunter) | Data governance: finds forgotten copies of PII in data lakes (GDPR) | Kafka, Python |
+| [Fraud_Immunity_Lab](https://github.com/OctavioPB/Fraud_Immunity_Lab) | Stress-tests fraud detection with synthetic attacks and an "Immunity Score" | Python |
+
+**Data Engineering and Tooling**
+
+| Project | Purpose | Stack |
+|---|---|---|
 | [pbix2html](https://github.com/OctavioPB/pbix2html) | Converts Power BI reports to HTML without a license | Python |
+| [MDLib-RAG](https://github.com/OctavioPB/MDLib-RAG) | Fully local search, tutor and writing assistant over ~2,250 notes | Local LLMs, RAG |
+| [Markdown-Conversor](https://github.com/OctavioPB/Markdown-Conversor) | Converts PDF, EPUB and Wikipedia pages to Markdown | Python |
+| [CSV_to_Postgres](https://github.com/OctavioPB/CSV_to_Postgres) | CSV-to-Postgres ETL loader with scheduled jobs | Flask, Postgres |
+| [Solar-CSI](https://github.com/OctavioPB/Solar-CSI) | Dashboard of ~23,500 installations from the California Solar Initiative | Python, BI |
 
-These are portfolio projects and prototypes. The [full list](https://github.com/OctavioPB?tab=repositories) includes more in People Analytics, Marketing and Compliance.
+**Optimization, Applied ML and Research**
 
-<br/>
+| Project | Purpose | Stack |
+|---|---|---|
+| [Allocation_Model](https://github.com/OctavioPB/Allocation_Model) | Assigns investment projects to investor portfolios | Combinatorial optimization |
+| [TableTop_Oracle](https://github.com/OctavioPB/TableTop_Oracle) | Agents that learn board games by reading the rules in natural language | RAG, ChromaDB, RL |
+| [Contador_de_celulas_automatico](https://github.com/OctavioPB/Contador_de_celulas_automatico) | Desktop app that counts muscle fibers and measures their orientation in microscopy | Mask R-CNN |
+| [Orientador_De_Fibras_RL](https://github.com/OctavioPB/Orientador_De_Fibras_RL) / [_CNN](https://github.com/OctavioPB/Orientador_De_Fibras_CNN) | Fiber orientation estimation using reinforcement learning and a regression CNN | RL, CNN |
 
 ## OPB Reference Series
 
@@ -126,7 +164,6 @@ Languages: Spanish (native), English (fluent), French (intermediate), Japanese (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OctavioPB&amp;show_icons=true&amp;hide_border=true&amp;title_color=003366&amp;icon_color=C8982A&amp;text_color=1C1C2E&amp;bg_color=F4F6F9" height="160" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioPB&amp;layout=compact&amp;hide_border=true&amp;title_color=003366&amp;text_color=1C1C2E&amp;bg_color=F4F6F9" height="160" alt="Top languages" />
 
 <br/><br/>
