@@ -1,4 +1,4 @@
-![Octavio Pérez Bravo — Data & AI Strategy Architect](assets/opb-banner.png)
+
 
 ![OPB — From Pipeline to Decision](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=C8982A&center=true&vCenter=true&width=640&lines=OPB+%C2%B7+From+Pipeline+to+Decision;Data+products+and+platforms+that+decide)
 
