@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/opb-banner.png" alt="Octavio Pérez Bravo — Data &amp; AI Strategy Architect" width="100%" />
+<img src="assets/opb-linkedin-banner.png" alt="Octavio Pérez Bravo — Data &amp; AI Strategy Architect" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=C8982A&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=OPB+%C2%B7+From+Pipeline+to+Decision;Data+products+and+platforms+that+decide" alt="OPB — From Pipeline to Decision" />
 
