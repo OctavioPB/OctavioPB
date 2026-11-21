@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:003366,100:C8982A&section=header&text=Octavio%20P%C3%A9rez%20Bravo&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Data%20%26%20AI%20Strategy%20Architect&descAlignY=58&descSize=18" alt="Octavio Pérez Bravo — Data & AI Strategy Architect" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:003366,100:C8982A&amp;section=header&amp;text=Octavio%20P%C3%A9rez%20Bravo&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Data%20%26%20AI%20Strategy%20Architect&amp;descAlignY=58&amp;descSize=18" alt="Octavio Pérez Bravo — Data &amp; AI Strategy Architect" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=C8982A&center=true&vCenter=true&width=640&lines=OPB+%C2%B7+From+Pipeline+to+Decision;Data+products+and+platforms+that+decide" alt="OPB — From Pipeline to Decision" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=C8982A&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=OPB+%C2%B7+From+Pipeline+to+Decision;Data+products+and+platforms+that+decide" alt="OPB — From Pipeline to Decision" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-operezbravo-003366?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/operezbravo/)
-[![Email](https://img.shields.io/badge/Email-octavio.perezbravo%40gmail.com-003366?style=flat-square&logo=gmail&logoColor=white)](mailto:octavio.perezbravo@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-octavio__perezbr1-003366?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/octavio_perezbr1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-operezbravo-003366?style=flat-square&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/operezbravo/)
+[![Email](https://img.shields.io/badge/Email-octavio.perezbravo%40gmail.com-003366?style=flat-square&amp;logo=gmail&amp;logoColor=white)](mailto:octavio.perezbravo@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-octavio__perezbr1-003366?style=flat-square&amp;logo=hackerrank&amp;logoColor=white)](https://www.hackerrank.com/octavio_perezbr1)
 [![AI Lounge](https://img.shields.io/badge/AI%20Lounge-%40octaviopb-003366?style=flat-square)](https://ai.lounge.ai/@octaviopb)
 
 </div>
@@ -53,7 +53,7 @@ Every project in this profile maps to at least one stage of this chain.
 
 ## Focus areas
 
-**Data & AI Architecture.** Semantic layers, data marts, governed metrics, and platform selection.
+**Data &amp; AI Architecture.** Semantic layers, data marts, governed metrics, and platform selection.
 
 **Agentic AI and GenAI.** Claude skills, MCP servers, RAG, and local models with evaluation and guardrails.
 
@@ -90,23 +90,23 @@ A personal knowledge base of technical reference guides, written in Markdown. It
 
 ## Toolbox
 
-![Python](https://img.shields.io/badge/Python-003366?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003366?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-003366?style=flat-square&logo=typescript&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-003366?style=flat-square&logo=teradata&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-003366?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-003366?style=flat-square&logo=apacheairflow&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-003366?style=flat-square&logo=neo4j&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-003366?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-003366?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-003366?style=flat-square&logo=kubernetes&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20%C2%B7%20MCP-C8982A?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-003366?style=flat-square&amp;logo=python&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003366?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-003366?style=flat-square&amp;logo=typescript&amp;logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-003366?style=flat-square&amp;logo=teradata&amp;logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-003366?style=flat-square&amp;logo=apachekafka&amp;logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-003366?style=flat-square&amp;logo=apacheairflow&amp;logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-003366?style=flat-square&amp;logo=neo4j&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-003366?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-003366?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-003366?style=flat-square&amp;logo=kubernetes&amp;logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20%C2%B7%20MCP-C8982A?style=flat-square&amp;logo=anthropic&amp;logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-C8982A?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-C8982A?style=flat-square&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-C8982A?style=flat-square&logo=ollama&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-003366?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-003366?style=flat-square&logo=tableau&logoColor=white)
-![React](https://img.shields.io/badge/React-003366?style=flat-square&logo=react&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-C8982A?style=flat-square&amp;logo=n8n&amp;logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-C8982A?style=flat-square&amp;logo=ollama&amp;logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-003366?style=flat-square&amp;logo=powerbi&amp;logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-003366?style=flat-square&amp;logo=tableau&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-003366?style=flat-square&amp;logo=react&amp;logoColor=white)
 
 <br/>
 
@@ -126,12 +126,12 @@ Languages: Spanish (native), English (fluent), French (intermediate), Japanese (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OctavioPB&show_icons=true&hide_border=true&title_color=003366&icon_color=C8982A&text_color=1C1C2E&bg_color=F4F6F9" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioPB&layout=compact&hide_border=true&title_color=003366&text_color=1C1C2E&bg_color=F4F6F9" height="160" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=OctavioPB&amp;show_icons=true&amp;hide_border=true&amp;title_color=003366&amp;icon_color=C8982A&amp;text_color=1C1C2E&amp;bg_color=F4F6F9" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioPB&amp;layout=compact&amp;hide_border=true&amp;title_color=003366&amp;text_color=1C1C2E&amp;bg_color=F4F6F9" height="160" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:C8982A,100:003366&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=0:C8982A,100:003366&amp;section=footer" width="100%" alt="" />
 
 **OPB** · *From Pipeline to Decision*
 
