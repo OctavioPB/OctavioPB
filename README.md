@@ -2,6 +2,13 @@
 
 <img src="assets/opb-linkedin-banner.png" alt="Octavio Pérez Bravo — Data &amp; AI Strategy Architect" width="100%" />
 
+<h1 align="center">Octavio Pérez Bravo</h1>
+
+<p align="center"><strong>Data &amp; AI Strategy Architect</strong> · Senior Data Science Engineer · Tijuana–San Diego · Remote</p>
+
+<p align="center">Data engineering, machine learning, agentic AI and People Analytics: from pipeline to decision.</p>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=C8982A&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=OPB+%C2%B7+From+Pipeline+to+Decision;Data+products+and+platforms+that+decide" alt="OPB — From Pipeline to Decision" />
 
 <br/>
@@ -44,16 +51,33 @@ Every project in this profile maps to at least one stage of this chain.
 | Result | Context |
 |---|---|
 | **~20 %** lower cloud compute spend | Redesign and migration of terabyte-scale ETL, with jobs running every 2 hours, weekly and monthly |
+| **~5,000 employees** | Built the Certified Knowledge Base (CKB) views that AI systems, Claude skills and Power BI reports use for governed answers in Human Capital Management, Product Behavior and Customer Success. Data is certified by each area's VP and reconciled daily against the source systems |
 | **164 executive users** | People Analytics dashboard used by the Executive Suite, VPs and Managers for headcount, hiring and organizational health |
 | **65 % → 94 %** model accuracy | Four iterations of a production model that estimates organizational impact when people leave a team (7 months in production) |
-| **3 weeks → 2 days** | Time to decide on warm leads, using a K-Means credit-risk score across 200+ commercial solar projects |
+| **57 users, including the CFO and CTO** | Built end to end the report that compares real product consumption against contract commitments for account managers, VPs and executives (Kafka ingestion, CKB views, HTML report with DirectQuery) |
+| **1 week → 1 day** | Onboarding time for a 7-person data team, using a Claude skill that reads project wikis, documentation, CKB views and developer notes. It answers about 70 questions per week |
+| **7 interns in 2 years** | Teradata–ITESM university relations: interviewed candidates (about 1 in 6 selected) and mentored the interns. All 7 received offers and 4 joined |
 | **Days → minutes** | Detection time for silent data errors, using an MCP server and skill for data validation |
+| **3 weeks → 2 days** | Time to decide on warm leads, using a K-Means credit-risk score across 200+ commercial solar projects (as developer on the team) |
 
-<br/>
+Results are self-reported. Exact figures covered by NDA are not published here.
+
+## Flagship project: Legal_AI_Assistant
+
+A bilingual (Spanish and English) legal assistant for Mexico and the US. It answers only from the law it has loaded, cites every claim, and refuses when the sources don't support an answer. Built with Claude Code as a programming assistant.
+
+- **Corpus:** 8 legal codes and 18,901 citable units across Mexican federal law, Nuevo León, Monterrey municipal rules and the California Labor Code.
+- **Citations checked by code, not by the model:** every cited ID must be among the retrieved passages, quoted text must be literal, and every legal claim needs a citation. Otherwise the system regenerates once and then refuses.
+- **One PostgreSQL for rows, vectors and full text (ADR-001):** a security decision. One row-level security rule protects everything, so there is no second boundary between law firms. A jurisdiction filter runs inside the same query.
+- **Local first:** Gemma and Qwen through Ollama, so nothing leaves the machine. Claude is optional and needs the firm administrator's authorization.
+- **Measured on an internal 25-case set:** recall@8 of 1.00, zero cross-jurisdiction leakage and 5 of 5 correct refusals. The backend has 2,082 tests against a real PostgreSQL.
+- **Status and limits:** a working prototype with no user pilot yet. The evaluation set was written by an AI and has not been reviewed by a lawyer, answer faithfulness is not yet measured, and it is not legal advice.
+
+[Repository](https://github.com/OctavioPB/Legal_AI_Assistant)
 
 ## Focus areas
 
-**Data &amp; AI Architecture.** Semantic layers, data marts, governed metrics, and platform selection.
+**Data and AI Architecture.** Semantic layers, data marts, governed metrics, certified data for AI consumers, and platform selection.
 
 **Agentic AI and GenAI.** Claude skills, MCP servers, RAG, and local models with evaluation and guardrails.
 
@@ -150,10 +174,11 @@ A personal knowledge base of technical reference guides, written in Markdown. It
 
 ## Education and credentials
 
-- **M.S. in AI**, UNIR
+- **M.S. in Artificial Intelligence**, UNIR (completed, degree in process)
 - **M.S. in Data Analysis and Visualization of Massive Data**, UNIR (with honors)
 - **B.S. in Mechatronics Engineering**, Tec de Monterrey
-- **Microsoft PL-300**, Power BI Data Analyst Associate
+- **ITESM robotics team** (control and computer vision): Robolympics Mx, second place in 2012
+- **Microsoft PL-300**, Power BI Data Analyst Associate (active through November 2027)
 - **HackerRank**, SQL (Advanced), with gold badges in SQL and Python
 - **Teradata**, AgentBuilder, MCP Server, VantageCloud Lake
 - **Toastmasters**, Persuasive Influence, Certificate of Proficiency
@@ -163,12 +188,6 @@ Languages: Spanish (native), English (fluent), French (intermediate), Japanese (
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OctavioPB&amp;show_icons=true&amp;hide_border=true&amp;title_color=003366&amp;icon_color=C8982A&amp;text_color=1C1C2E&amp;bg_color=F4F6F9" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioPB&amp;layout=compact&amp;hide_border=true&amp;title_color=003366&amp;text_color=1C1C2E&amp;bg_color=F4F6F9" height="160" alt="Top languages" />
-
-<br/><br/>
-
 
 **OPB** · *From Pipeline to Decision*
 
